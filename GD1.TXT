@@ -74,6 +74,21 @@ CCTV4K,http://192.168.10.1:7088/rtp/239.77.1.180:5146
 浙江卫视4K,http://192.168.10.1:7088/udp/239.77.0.58:5146
 江苏卫视4K,http://192.168.10.1:7088/udp/239.77.0.57:5146
 
+港·澳·台,#genre#
+翡翠台,https://cdn6.101.qzz.io/163189/fct
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+TVBS新闻台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%96%B0%E8%81%9E
+明珠台,http://r.jdshipin.com/ZQ4kN
+澳门卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+https://cdn6.163189.xyz/163189/asam
+凤凰资讯http://cdn6.163189.xyz/163189/fhzx
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳门体育,http://cdn6.163189.xyz/163189/amty
+中天新聞,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+
 IPTV-广东电视台,#genre#
 广东卫视,http://192.168.10.1:7088/rtp/239.77.0.84:5146
 广东卫视,http://192.168.10.1:7088/rtp/239.77.0.166:5146
